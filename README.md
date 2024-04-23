@@ -1,1 +1,3 @@
-#React for Search and Filter
+# React with Vite
+
+## Creating E-Commerce Search and Filtering in React
