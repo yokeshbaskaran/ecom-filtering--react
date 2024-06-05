@@ -17,3 +17,7 @@ a {
 li {
   list-style-type: none;
 }
+
+.yoki {
+  border: 2px solid red;
+}
